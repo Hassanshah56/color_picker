@@ -1,0 +1,46 @@
+div{
+    display: flex;
+    height: 100px;
+    gap: 10px;
+    justify-content: center;
+}
+#green{
+    background-color: green;
+    width: 100px;
+    border: 1.5px solid black;
+    text-align: center;
+    padding-top: 40px;
+}
+#yellow{
+    background-color: yellow;
+    width: 100px;
+    border: 1.5px solid black;
+    padding-top: 40px;
+    text-align: center;
+}
+#grey{
+    background-color: grey;
+    width: 100px;
+    border: 1.5px solid black;
+    padding-top: 40px;
+    text-align: center;
+}
+#orange{
+    background-color: orange;
+    width: 100px;
+    border: 1.5px solid black;
+    text-align: center;
+    padding-top: 40px;
+}
+#red{
+    background-color: red;
+    width: 100px;
+    border: 1.5px solid black;
+    padding-top: 40px;
+    text-align: center;
+}
+h1,p{
+    font-family: monospace;
+    font-style: italic;
+    text-align: center;
+}
